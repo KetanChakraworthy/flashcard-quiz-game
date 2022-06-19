@@ -1,6 +1,18 @@
 # FlashCard Quiz Game
 
 
+![FlashCard Quiz Game](https://i.ibb.co/HpRMhnW/flashcard-quiz-game.png)
+
+## Introduction
+It is a FlashCard Quiz Game where you can challenge your knowladge on different topics. 
+
+It is build using React.js Which is a Javascript Libary.
+
+### Setup:
+
+1. run ```npm i``` install all the dependencies.
+2. run ```npm start``` to run the app. 
+
 
 ## Available Scripts
 
